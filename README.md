@@ -15,7 +15,4 @@ Real time analytics over logs with ELK stack
 
 4) Whenever the logs in the log file get updated or appended to the previous logs, as long as the three services are running the data in elasticsearch and graphs in kibana will automatically update according to the new data
 
-[logo]
-
-[logo]: https://github.com/binoyyj/elk-logging-python/raw/master/kibana_visualization.png "Kibana Visualization"
-
+![Kibana Visualization](https://github.com/binoyyj/elk-logging-python/raw/master/kibana_visualization.png)
